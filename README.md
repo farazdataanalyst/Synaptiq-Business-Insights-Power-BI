@@ -11,7 +11,7 @@ This dashboard suite consolidates key performance indicators (KPIs), profitabili
 
 ---
 
-## 📊 Overview
+## Overview
 
 **Data Sources:**  
 Multi-regional sales, cost, and operational datasets from regions including APAC, EU, LATAM, and NA etc.
@@ -116,7 +116,7 @@ One-page KPI summary, cross-functional trends, competitor market share compariso
 ---
 
 
-## 🛠️ Technical Features
+##  Technical Features
 
 - **Interactivity:** Drill-through filters, date slicers, dynamic visuals  
 - **Sharing:** Context-preserved links via email/Teams, role-based access  
@@ -127,7 +127,7 @@ One-page KPI summary, cross-functional trends, competitor market share compariso
 
 ---
 
-## 📌 Key Business Takeaways
+## Key Business Takeaway
 
 - Revenue slightly below benchmark ($3.736B vs $3.807B BM) but GM% preserved (~38%)  
 - Certain segments/regions show negative net profit despite strong margins  
